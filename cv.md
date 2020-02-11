@@ -1,12 +1,10 @@
 Ivan Ivanov
 
-**Contact Info:**
-E-mail: [ivanov-i.s@mail.ru](mailto:ivanov-i.s@mail.ru)
-
-Phone: +375293843494
+**Contact info:**
+E-mail: [ivanov-i.s@mail.ru](mailto:ivanov-i.s@mail.ru)   Phone: +375293843494
 
 **Summary:**
-The main goal is get an interested job which is give me an ability to obtain new experience, knowledge and professional skills. As engineer I alway ready for different challenges and do my best for solving task. 
+The main goal is get an interested job which gives me an ability to obtain new experience, knowledge and professional skills. As an engineer I always ready for different challenges and do my best for solving task.
 
 **Skills:**
  HTML, CSS, JavaScript (basic skills). 
@@ -26,7 +24,7 @@ The main goal is get an interested job which is give me an ability to obtain new
 
 ```javascript
 'use strict';
-let number = prompt ("Insert random number", "");
+let number = prompt ("The program shows every simple number which included in the inserted number:", "");
 let result = "";
 if (number>1){
     for (let i=2;i<=number;i++){
@@ -42,7 +40,7 @@ else alert ("No simple numbers!");
 ``` 
 
 **Experience:**
- take part in the Rolling Scopes 2018-Q1 (done the half part of the Stage Two).
+ Took part in the Rolling Scopes 2018-Q1 (done the half part of the Stage Two).
 
 **Education:**
  Graduated in 2016 from the Francisk Skorina Gomel State University with the Software Engineer qualification in the Information Technology Software specialty.
