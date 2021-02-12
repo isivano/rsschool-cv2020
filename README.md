@@ -1,1 +1,1 @@
-https://isivano.github.io/rsschool-cv/cv
+https://isivano.github.io/rsschool-cv2020/
